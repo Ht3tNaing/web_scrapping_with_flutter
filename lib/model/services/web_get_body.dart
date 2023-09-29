@@ -1,5 +1,5 @@
 import 'package:beautiful_soup_dart/beautiful_soup.dart';
-import 'package:web_scrapping/model/items.dart';
+import 'package:web_scrapping/model/data/items.dart';
 import 'package:http/http.dart' as http;
 
 class WebGetBody{
